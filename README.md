@@ -8,6 +8,8 @@
 
 # 📊  Stats:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2049%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -55,5 +57,5 @@ Visual Basic .NET        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 18:39:28 UTC
+ Last Updated on 10/11/2024 18:39:31 UTC
 <!--END_SECTION:waka-->
