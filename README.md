@@ -20,6 +20,7 @@ I am a passionate **software developer** and a student at **42 School**. I love 
 | **Skill Area**               | **Technologies**                                        |
 |-----------------------------|---------------------------------------------------------|
 | **Web Development**         | HTML, CSS, JavaScript, TailwindCSS, PHP, Node.js       |
+| **Mobile Development**         | Swift & SwiftUI       |
 | **Databases**               | MySQL                                                   |
 | **Automation & AI-Agents**  | CrewAI, Mistral API                                     |
 | **Low-Level Programming**   | C, C++, Linux, Bash                                    |
