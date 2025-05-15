@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **software developer** and a student at **42 School**. I love exploring **low-level programming**, **networking**, **containers**, and **AI-driven automation**. Currently diving deep into **C**, **C++**, and **Swift** while building exciting projects!
+I am a passionate student at **42 School**.
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliam-detoh/)
@@ -50,13 +50,6 @@ Here are some of the projects I have worked on during my journey at **42**:
 | **Networking**  | NetPractice (No Git Repo), ft_irc |
 | **Containers**  | Inception (Docker) |
 | **Web**  | Transcendence |
-
----
-
-## 📌 Current Focus
-- Improving **Swift programming** skills 🏗️
-- Learning more about **networking** and **security** 🔐
-- Exploring **AI agents** for automation 🤖
 
 ### 📅 What's Next?
 - 🚀 Working on **more C++ projects**
