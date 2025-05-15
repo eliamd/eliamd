@@ -51,9 +51,4 @@ Here are some of the projects I have worked on during my journey at **42**:
 | **Containers**  | Inception (Docker) |
 | **Web**  | Transcendence |
 
-### 📅 What's Next?
-- 🚀 Working on **more C++ projects**
-- 🏗️ Developing **personal projects in Swift & Web Dev**
-- 🔥 Mastering **cloud computing and deployment**
-
 📫 **Want to collaborate?** Feel free to reach out!
